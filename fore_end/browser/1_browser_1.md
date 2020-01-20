@@ -30,8 +30,8 @@ HTTP标准是由IETF组织制定的。
 
 跟它相关的标准有两份：
 
-[HTTP1.1]: https://tools.ietf.org/html/rfc2616
-[HTTP1.1]: https://tools.ietf.org/html/rfc7234
+HTTP1.1 https://tools.ietf.org/html/rfc2616
+HTTP1.1 https://tools.ietf.org/html/rfc7234
 
 HTTP协议是基于TCP协议出现的。
 
